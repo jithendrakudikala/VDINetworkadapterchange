@@ -4,7 +4,7 @@
 .Description
   <<Description goes here>>
 .Notes
-  ScriptName  : PatchingListgenerater.PS1
+  ScriptName  : VDINetwoAdapterchange.PS1
   Requires    : Powershell Version 5.0
   Author      : Jithendra Kudikala
   EMAIL       : jithendra.kudikala@gmail.com
